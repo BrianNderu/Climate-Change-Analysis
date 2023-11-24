@@ -25,3 +25,13 @@ The continous use of Fossil Fuel have an impact as they release u=huge amounts o
 <img src="/Images/output2.png"/>
 
 Europe is warming the fastest, followed by Asian countries, Africa & America, and the continent that is warming the slowest is Oceania. 
+
+### Countries with Highest Temperature Growth
+<img src="/Images/output2.png"/>
+
+These Countries have recorded the highest percentage of temperature growth Worldwide indicating a need for Drastic interventions in the said 5 countries
+
+### Trend for Kenya
+<img src="/Images/output2.png"/>
+
+There has also been a steady temperature growth in Kenya
