@@ -3,7 +3,7 @@
 ## Project Overview
 Climate Change has been an important issue worldwide . WIth the rise of destructive floods and extreme heat temperatures, it is essential to conduct and analysis to understand the trends in Temperarure rise. 
 
-This project seeks to conduct a visual analysis of Surface temperature trends worldwide. 
+This project seeks to conduct a visual analysis of Surface temperature trends worldwide. This Project utilizes Data from 1966 - 2022 of recorded Surface Temperature for countries
 
 ## Tools Used
 Pandas
@@ -35,3 +35,4 @@ These Countries have recorded the highest percentage of temperature growth World
 <img src="/Images/output2.png"/>
 
 There has also been a steady temperature growth in Kenya
+
