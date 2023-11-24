@@ -36,3 +36,9 @@ These Countries have recorded the highest percentage of temperature growth World
 
 There has also been a steady temperature growth in Kenya
 
+## Conclusions
+1. Europe Continent has recorded the highest rate of Surface temperature growth
+
+2. France, Lebanon, Denmark , Suriname & Tonga are the top 5 countries with highest percentage Temperature growth over the years
+
+3. Drastic measures need to be taken worldwide to Reduce the surface temperature growth as the trend has been steadly growing over the years
