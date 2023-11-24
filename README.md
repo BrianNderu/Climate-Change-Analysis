@@ -32,7 +32,7 @@ Europe is warming the fastest, followed by Asian countries, Africa & America, an
 These Countries have recorded the highest percentage of temperature growth Worldwide indicating a need for Drastic interventions in the said 5 countries
 
 ### Trend for Kenya
-<img src="/Images/output2.png"/>
+<img src="/Images/output4.png"/>
 
 There has also been a steady temperature growth in Kenya
 
